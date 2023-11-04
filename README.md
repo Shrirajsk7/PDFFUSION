@@ -1,3 +1,5 @@
-The Full-Stack Application I developed is a PDF chatbot that effectively processes and 
-analyses PDF documents. This chatbot application encompasses both the backend and 
-frontend components, providing a comprehensive solution for users
+The Full-Stack Application I developed is a PDF chatbot that enables users to interact with specific data within PDF documents. This comprehensive application seamlessly integrates both the backend, built with Python, and the frontend, developed using Node.js.
+
+One of its standout features is the integration of vectordatabase technology, which allows for efficient storage and retrieval of data. Additionally, the application harnesses the power of Long-Long Memory (LLM) to enhance the chatbot's capabilities, making it adept at processing and understanding PDF content. Advanced language chain technologies further facilitate natural language understanding and communication.
+
+What sets this chatbot apart is its ability to engage with prescribed data within PDFs, enabling users to ask questions, receive information, and issue commands within the defined scope of the documents. This tailored approach ensures efficient and secure interactions with the specific content of PDFs, making it a valuable tool for industries and use cases where data precision is paramount.
